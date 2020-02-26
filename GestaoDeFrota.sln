@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{F1CEA194-3CF3-41D7-969C-B84CABBF826A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{45F7DB4F-28C1-4CA2-8E4C-F75D2AB31A02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{E40E299E-095E-43F8-98B1-F12ED9116023}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{7B2CC05A-8AA7-4BDE-967B-E3A2D7587EE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Data", "4 - Data", "{18662160-4941-4471-A637-6E06506E97BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - DI", "5 - DI", "{D2A40BC3-CB1E-4DF2-9D6D-8553E4192362}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - CrossCutting", "4.1 - CrossCutting", "{7826488B-66F1-48EE-A426-98350C7ADD7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Infra", "4.1 - Infra", "{DDD44583-5DB5-48B2-B8BF-2B56A83B16BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoDeFrota.Domain", "GestaoDeFrota.Domain\GestaoDeFrota.Domain.csproj", "{715044EA-E6CC-47A4-8F55-7FA362AE35E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoDeFrota.Infra", "GestaoDeFrota.Infra\GestaoDeFrota.Infra.csproj", "{643DF942-0D7A-4C23-A3E4-1421BB41101F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoDeFrota.Application", "GestaoDeFrota.Application\GestaoDeFrota.Application.csproj", "{59BDBBD6-450C-4964-BEAE-AE59944678A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoDeFrota.API", "GestaoDeFrota.API\GestaoDeFrota.API.csproj", "{890CEC4B-2105-4EC4-9220-B767B30E568E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoDeFrota.DI", "GestaoDeFrota.DI\GestaoDeFrota.DI.csproj", "{26103A70-265C-4E8F-A035-08FA25A2BA07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715044EA-E6CC-47A4-8F55-7FA362AE35E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715044EA-E6CC-47A4-8F55-7FA362AE35E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715044EA-E6CC-47A4-8F55-7FA362AE35E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715044EA-E6CC-47A4-8F55-7FA362AE35E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643DF942-0D7A-4C23-A3E4-1421BB41101F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643DF942-0D7A-4C23-A3E4-1421BB41101F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643DF942-0D7A-4C23-A3E4-1421BB41101F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643DF942-0D7A-4C23-A3E4-1421BB41101F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BDBBD6-450C-4964-BEAE-AE59944678A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BDBBD6-450C-4964-BEAE-AE59944678A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BDBBD6-450C-4964-BEAE-AE59944678A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BDBBD6-450C-4964-BEAE-AE59944678A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890CEC4B-2105-4EC4-9220-B767B30E568E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890CEC4B-2105-4EC4-9220-B767B30E568E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890CEC4B-2105-4EC4-9220-B767B30E568E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890CEC4B-2105-4EC4-9220-B767B30E568E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26103A70-265C-4E8F-A035-08FA25A2BA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26103A70-265C-4E8F-A035-08FA25A2BA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26103A70-265C-4E8F-A035-08FA25A2BA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26103A70-265C-4E8F-A035-08FA25A2BA07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7826488B-66F1-48EE-A426-98350C7ADD7C} = {18662160-4941-4471-A637-6E06506E97BE}
+		{DDD44583-5DB5-48B2-B8BF-2B56A83B16BC} = {18662160-4941-4471-A637-6E06506E97BE}
+		{715044EA-E6CC-47A4-8F55-7FA362AE35E3} = {7B2CC05A-8AA7-4BDE-967B-E3A2D7587EE2}
+		{643DF942-0D7A-4C23-A3E4-1421BB41101F} = {DDD44583-5DB5-48B2-B8BF-2B56A83B16BC}
+		{59BDBBD6-450C-4964-BEAE-AE59944678A5} = {E40E299E-095E-43F8-98B1-F12ED9116023}
+		{890CEC4B-2105-4EC4-9220-B767B30E568E} = {F1CEA194-3CF3-41D7-969C-B84CABBF826A}
+		{26103A70-265C-4E8F-A035-08FA25A2BA07} = {D2A40BC3-CB1E-4DF2-9D6D-8553E4192362}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD628F90-FBFA-4C56-B9E6-624AFB9CB3C9}
+	EndGlobalSection
+EndGlobal

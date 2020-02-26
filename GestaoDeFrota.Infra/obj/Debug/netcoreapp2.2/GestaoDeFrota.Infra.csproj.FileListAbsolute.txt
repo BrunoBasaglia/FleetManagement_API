@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\bin\Debug\netcoreapp2.2\GestaoDeFrota.Infra.deps.json
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\bin\Debug\netcoreapp2.2\GestaoDeFrota.Infra.runtimeconfig.json
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\bin\Debug\netcoreapp2.2\GestaoDeFrota.Infra.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\bin\Debug\netcoreapp2.2\GestaoDeFrota.Infra.dll
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\bin\Debug\netcoreapp2.2\GestaoDeFrota.Infra.pdb
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\bin\Debug\netcoreapp2.2\GestaoDeFrota.Domain.dll
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\bin\Debug\netcoreapp2.2\GestaoDeFrota.Domain.pdb
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\obj\Debug\netcoreapp2.2\GestaoDeFrota.Infra.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\obj\Debug\netcoreapp2.2\GestaoDeFrota.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\obj\Debug\netcoreapp2.2\GestaoDeFrota.Infra.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\obj\Debug\netcoreapp2.2\GestaoDeFrota.Infra.AssemblyInfo.cs
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\obj\Debug\netcoreapp2.2\GestaoDeFrota.Infra.csproj.CopyComplete
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\obj\Debug\netcoreapp2.2\GestaoDeFrota.Infra.dll
+C:\Users\Asus\Documents\Workspace\Gestao_de_Frota_API\GestaoDeFrota\GestaoDeFrota.Infra\obj\Debug\netcoreapp2.2\GestaoDeFrota.Infra.pdb
